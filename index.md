@@ -9,3 +9,6 @@
 $ git init
 Initialized empty Git reposity in /Users/skills/Projects/recipe-repositry/.git/
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
