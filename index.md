@@ -5,3 +5,7 @@
 ##### Test5
 ###### Test 6
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+```
+$ git init
+Initialized empty Git reposity in /Users/skills/Projects/recipe-repositry/.git/
+```
